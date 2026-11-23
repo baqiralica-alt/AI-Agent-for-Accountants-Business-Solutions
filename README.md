@@ -1,0 +1,2 @@
+# AI-Agent-for-Accountants-Business-Solutions
+a multi-tenant AI accounting &amp; finance platform for CPA / CFO / Tax / Audit practices serving clients across Construction, Real Estate, Retail, SaaS, AI and Manufacturing in the USA, UK and EU.  This guide walks you through deploying the app, wiring real OAuth for Gmail / QuickBooks / Xero / Sage / Stripe / Plaid / Shopify / AWS / SAP FICO / Oracle
