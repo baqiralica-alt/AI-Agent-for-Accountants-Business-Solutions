@@ -20,3 +20,30 @@ API & Webhooks — REST API docs + webhook subscriptions for QuickBooks / Xero /
 Tax Center — filings tracker + jurisdiction-aware calculator (USA / UK / Germany / France / Ireland)
 Reports — P&L, Balance Sheet, Cash Flow, Trial Balance, Equity, VAT/GST in IFRS / US GAAP / UK FRS 102 / German HGB / French PCG / Irish FRS 102 — PDF / Excel / CSV download
 How to Use — plain-English getting started + 3-tier pricing (Free / Pro / Enterprise)
+
+The MIT License explicitly permits commercial use, including:
+
+Monthly SaaS subscriptions
+One-time app sales
+Enterprise licensing
+White-label reselling
+Hosting for paying customers
+
+This app / agent does not represent:
+
+Certified public accounting services
+Licensed tax advice
+Professional audit opinions
+Investment advisory services
+
+
+ disclaimers :
+
+"This software is for informational and educational purposes only"
+"Not a substitute for professional accounting, tax, or legal advice"
+"Always consult a licensed CPA, tax adviser, or attorney"
+"All data is fictional — validate independently for real-world use"
+
+MIT Licensed 
+
+
