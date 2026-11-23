@@ -45,5 +45,10 @@ Investment advisory services
 "All data is fictional — validate independently for real-world use"
 
 MIT Licensed 
+Data and Reports are fictional not real and company names are also fictional not real .
+
+
+
+
 
 
